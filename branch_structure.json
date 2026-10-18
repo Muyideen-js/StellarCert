@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "solver/issue-1015-67-a0",
+    "solver/issue-1175-2-a0",
+    "solver/issue-772-120-a0"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "solver/issue-1015-67-a0": "main",
+    "solver/issue-1175-2-a0": "main",
+    "solver/issue-772-120-a0": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "solver/issue-1015-67-a0",
+    "solver/issue-1175-2-a0",
+    "solver/issue-772-120-a0"
+  ]
+}
